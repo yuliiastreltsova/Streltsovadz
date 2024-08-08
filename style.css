@@ -1,0 +1,13 @@
+body{background-color: #d5cadb;}
+#main-heading{color: rgb(114, 55, 87); 
+    font-family: Garamond, serif; 
+   text-align: center;}
+.dog {
+    color: rgb(135, 153, 154);
+    font-family: 'Brush Script MT', cursive;
+    }
+    .menu {
+        color: #150e0e;
+        font-family: Georgia, serif;
+    }
+  #adress{font-family: 'Courier New', monospace;}
